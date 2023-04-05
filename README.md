@@ -1,2 +1,2 @@
 # proj-filmes-cartaz
- Pagina de filmes que estão em cartaz no cinema
+ Pequeno projeto em ReactJS de uma página de filmes que estão em cartaz no cinema.
