@@ -1,0 +1,21 @@
+
+.not-found {
+    width: 100%;
+    height: calc(100vh - 60px); /* o calc vai tirar a altura da tela que sobrou para que não apareça a barra de rolagem porque no header.css foi colocado um height de 60px*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.not-found h1 {
+    font-size: 120;
+}
+
+.not-found a {
+    text-decoration: none;
+    background-color: #116feb;
+    color: #fff;
+    padding: 10px;
+    margin-top: 14px;
+}
